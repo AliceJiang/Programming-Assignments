@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout <<"Enter #1";
+    int a;
+    cin>> a;
+    cout <<"Enter #2";
+    int b;
+    cin>>b;
+    cout <<"Enter #3";
+    int c;
+    cin>>c;
+    cout <<"Enter #4";
+    int d;
+    cin>>d;
+    cout <<"Enter #5";
+    int e;
+    cin>>e;
+    cout <<"the sum of the five numbers;"<<a+b+c+d+e<<endl;
+
+
+}
